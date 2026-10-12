@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/patraprerna31/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/patraprerna31/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/patraprerna31/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/patraprerna31/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/patraprerna31/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/patraprerna31/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -35,4 +37,9 @@
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/patraprerna31/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/patraprerna31/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/patraprerna31/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->

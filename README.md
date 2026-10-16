@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/patraprerna31/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/patraprerna31/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/patraprerna31/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/patraprerna31/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/patraprerna31/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/patraprerna31/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/patraprerna31/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/patraprerna31/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -47,4 +49,12 @@
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/patraprerna31/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/patraprerna31/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/patraprerna31/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->

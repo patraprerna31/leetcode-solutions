@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/patraprerna31/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/patraprerna31/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0811-subdomain-visit-count](https://github.com/patraprerna31/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/patraprerna31/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/patraprerna31/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
@@ -13,12 +14,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/patraprerna31/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/patraprerna31/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0811-subdomain-visit-count](https://github.com/patraprerna31/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/patraprerna31/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/patraprerna31/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/patraprerna31/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0811-subdomain-visit-count](https://github.com/patraprerna31/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [1021-remove-outermost-parentheses](https://github.com/patraprerna31/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/patraprerna31/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
@@ -57,4 +60,8 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/patraprerna31/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Counting
+|  |
+| ------- |
+| [0811-subdomain-visit-count](https://github.com/patraprerna31/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 <!---LeetCode Topics End-->
